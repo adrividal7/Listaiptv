@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,Dazn 1
+http://canalesvidal.ddns.net:6878/ace/getstream?id=8b2e003ef51657196d2096aa84b9b21ae4bfb660
+#EXTINF:-,Dazn 2
+http://canalesvidal.ddns.net:6878/ace/getstream?id=3f68c1aa02094e253fd8446c0c307089cecf2a1e
+#EXTINF:-,Dazn 3
+http://canalesvidal.ddns.net:6878/ace/getstream?id=bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
+#EXTINF:-,Dazn f1
+http://canalesvidal.ddns.net:6878/ace/getstream?id=60cf60019aeef9af6183dd05af1b89e25594ac14
+#EXTINF:-,Dazn F1(2) 
+http://canalesvidal.ddns.net:6878/ace/getstream?id=4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
+#EXTINF:-,Movistar liga de campeones 
+http://canalesvidal.ddns.net:6878/ace/getstream?id=2bac25f323be1de8208d6554337c2c8256bc32bc
+#EXTINF:-,Movistar liga de campeones(2)
+http://canalesvidal.ddns.net:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b493b
